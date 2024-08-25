@@ -1,2 +1,4 @@
 # DWH-AdvetureWorks-DWH
-Design sales data mart to store some historical sales data of a virtual company which stores its OLTP database on SQL server
+Designed and implemented a data warehouse solution to analyze key business metrics, including customer acquisition costs, sales performance, and staff productivity. Developed comprehensive ETL processes to extract, transform, and load data from source systems into final data warehouse tables.
+
+Implemented the data warehouse physically using Sql server and used SSIS as an ETL and integration tool.
